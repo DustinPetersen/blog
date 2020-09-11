@@ -1,16 +1,16 @@
 ---
-title: Teams wiki vs onenote
+title: running bash file with zsh
 author: Dustin Petersen
 date: 2019-08-08 14:10:00 +0800
-categories: [Teams, OneNote,]
+categories: [zsh, bashs,]
 tags: [writing]
 ---
 
-In this post, I would like to explain the difference between Teams Wiki and OneNote. Both apps are highly visible from SharePoint and Teams and seem to serve the same purpose, so I would like to explain what they are and whether you should use one or another.
+## I have switched to zsh, how can I run a script which is written for bash?
 
-## OneNote
-OneNote is an application that allows you to take all kinds of notes. It is part of the MS Office suite, like Word, Excel, PowerPoint. What makes OneNote unique is that it allows you to capture all types of notes from text to images to audio. I highlighted the OneNote app extensively in this post.
+You can run the script with bash manually:
 
-## Where does OneNote reside?
+`
+bash myscript.sh
 
-When you create a new Team Site in SharePoint Online, your OneNote notebook is created automatically. The link to OneNote is always prominently placed on the SharePoint Site navigation.
+`
