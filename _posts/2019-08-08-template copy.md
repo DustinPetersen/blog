@@ -1,8 +1,8 @@
 ---
-title: running bash file with zsh
+title: Running bash file with ZSH
 author: Dustin Petersen
 date: 2019-08-08 14:10:00 +0800
-categories: [zsh, bashs,]
+categories: [zsh, bash]
 tags: [writing]
 ---
 
@@ -10,7 +10,12 @@ tags: [writing]
 
 You can run the script with bash manually:
 
-`
-bash myscript.sh
+`bash myscript.sh`
 
-`
+A better and more permanent solution is to add a shebang line:
+
+`#!/usr/bin/env bash`
+
+one that line has been added, you can run it directly from zsh.
+
+` % ./myscript.sh`
