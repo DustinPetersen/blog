@@ -1,0 +1,12 @@
+<Style>
+.ms-core-listMenu-verticalBox a[title="Site\000020contents"] {
+display:none !important;
+}
+#titleAreaBox #SearchBox {
+display:none !important;
+}
+.ms-displayInline.ms-core-navigation
+{
+display:none;
+}
+</style>
