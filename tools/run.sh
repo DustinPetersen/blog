@@ -7,7 +7,7 @@
 #
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2019 Cotes Chung
+# © 2019 Dustin Petersen
 # Published under MIT License
 
 set -eu

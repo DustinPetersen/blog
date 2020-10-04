@@ -2,7 +2,7 @@
  * Tab 'Categories' expand/close effect.
  * v2.0
  * https://github.com/cotes2020/jekyll-theme-chirpy
- * © 2018-2019 Cotes Chung
+ * © 2018-2019 Dustin Petersen
  * MIT License
  */
 
