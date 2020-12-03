@@ -10,10 +10,10 @@
 
 title: Dustin Petersen                          # the main title
 
-tagline: One blog to rule them all  # it will display as the sub-title
+tagline: SharePoint, Microsoft 365 and Teams  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  blog, microsoft, sharepoint, teams, digital workspace
+ Microsoft, SharePoint, Teams, Digital Workspace, Intranet.
   
 
 # Replace with the website url, e.g. 'https://username.github.io'
@@ -31,14 +31,12 @@ twitter:
 
 social:
   name: Dustin Petersen                  # it will shows as the copyright owner in Footer
-  email: me@dustinpetersen.ca             # change to your email address
+  email: Dustin@Recursive-solutions.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/kjeld264      # change to your twitter homepage
     - https://github.com/dustinpetersen       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/dustinpetersen/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
