@@ -5,6 +5,7 @@ date: 2020-12-28 09:53 -0700
 categories:
     - Web Development
     - Setup
+    - Productivity
 tags:
     - Windows Terminal
     - Linux
