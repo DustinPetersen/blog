@@ -1,2 +1,7 @@
-* text=auto
-*.sh text eol=lf
+# hidden files
+.*
+!.github
+
+# jekyll cache
+_site
+vendor
