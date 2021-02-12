@@ -2,8 +2,8 @@
 title: What are Microsoft Lists?
 author: Dustin Petersen
 date: '2020-09-17 14:10:00 +0800'
-categories: [Microsoft,Lists]
-tags: [Lists]
+categories: [microsoft,lists]
+tags: [lists]
 ---
 What are Sharepoint lists? Sharepoint lists are essentially a database that used within SharePoint.
 
