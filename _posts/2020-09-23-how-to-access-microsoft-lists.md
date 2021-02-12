@@ -2,12 +2,8 @@
 layout: post
 title: Is your app tray missing Microsoft Lists?
 date: 2020-09-23 00:11 -0600
-categories:
-    - Microsoft
-    - Lists
-tags:
-    - Microsoft
-    - Lists
+categories: [microsoft lists, sharepoint]
+tags: [Microsoft, Lists]
 ---
 
 Is your app tray missing microsoft lists?
