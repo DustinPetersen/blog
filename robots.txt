@@ -1,0 +1,14 @@
+---
+# The robots rules
+# v2.0
+# © 2017-2020 Dustin
+# MIT License
+layout: null
+permalink: robots.txt
+---
+
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: {{ site.url | append: site.baseurl }}/sitemap.xml
