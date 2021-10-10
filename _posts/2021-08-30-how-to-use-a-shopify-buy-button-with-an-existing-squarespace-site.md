@@ -2,8 +2,8 @@
 layout: post
 title: How to use a Shopify Buy button with an Existing SquareSpace site
 date: 2021-08-30 14:48 -0600
-categories: [Shopify, Squarespace]
-tags: [Ecommerce]
+categories: [Ecommerce, Squarespace With Shopify buy now button]
+tags: [Ecommerce, Shopify, SquareSpace]
 ---
 If you’ve built a beautiful website on Squarespace and then realised that a must-have commerce feature is missing, this guide is for you!
 
