@@ -2,7 +2,7 @@
 layout: post
 title: javascript One-liners
 date: 2021-10-08 21:48 -0600
-categories:
+categories: [SharePoint, Toolchain]
 tags: [JavaScript]
 ---
 # DOM
